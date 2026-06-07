@@ -1,0 +1,9 @@
+{
+  "short_name": "Ficha Pránica",
+  "name": "Ficha de Sesión — Sanación Pránica",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1a1a",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
